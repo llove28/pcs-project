@@ -1,6 +1,5 @@
 ---
-section: Cataloging
+section_id: Cataloging
 nav_order: 2
 title: Workflow
-topics: Site options; _config.yml
 ---
