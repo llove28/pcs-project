@@ -1,6 +1,4 @@
 ---
-section: Create Content
-nav_order: 3
 title: Feature Includes
 topics: Content; Bootstrap Components
 gallery: true
