@@ -1,6 +1,4 @@
 ---
-section_id: Customize
-nav_order: 4
 title: Example Page 
 topics: Example Topic; Another Example
 description: >
