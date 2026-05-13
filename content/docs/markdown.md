@@ -1,6 +1,4 @@
 ---
-section: Create Content
-nav_order: 2
 title: Markdown
 topics: Content; Markdown
 ---
