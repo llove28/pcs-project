@@ -9,9 +9,9 @@ topics: Site options; _config.yml
 
 1. Contact the interviewee to establish interest in participating and inform them of the following:
    - 
-3. Arrange time and place
-4. Review general questions - remove/edit that do not apply to this interviewee
-5. Draft additional interview questions specific to interviewee
+2. Arrange time and place
+3. Review general questions - remove/edit that do not apply to this interviewee
+4. Draft additional interview questions specific to interviewee
 
 ## Set Up
 
