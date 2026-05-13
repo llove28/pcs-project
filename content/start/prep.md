@@ -1,6 +1,4 @@
 ---
-section_id: Get Started
-nav_order: 2
 title: Prep
 topics: GitHub; Optional Software
 ---
