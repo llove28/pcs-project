@@ -1,6 +1,4 @@
 ---
-section: Customize
-nav_order: 2
 title: Advanced Customization Options
 topics: CSS
 ---
