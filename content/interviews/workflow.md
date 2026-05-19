@@ -1,26 +1,40 @@
 ---
 section_id: Interviews
 nav_order: 2
-title: Workflow
+title: Interview Workflow
 ---
 
 Review the following steps before conducting interviews for the PCS Oral History Project.
 
+
 ## Planning the Interview
 
-1. Contact the interviewee to establish interest in participating and inform them of the following:
-2. Arrange time and place
-3. Review general questions - remove/edit that do not apply to this interviewee
-4. Draft additional interview questions specific to interviewee
+1. Contact the interviewee to establish their interest in participating and inform them of the following:
+- The goal of the project and what type of information we are hoping to collect from them
+- What to expect during the interview, i.e.
+    - We will be recording using a laptop and microphone
+    - We will have some scripted questions (general and specific), but will allow the conversation to flow from there
+    - We anticipate recording one hour of material
+- What will happen to their recorded interview, i.e. 
+    - May be minimally edited
+    - Will be run through a transcription software 
+    - Will be published to the collection website for the general public to hear
+    - May be potentially clipped for socials
+    - They will have an option to hear it before it’s published
+3. Arrange time and place 
+4. Review general questions - remove/edit that do not apply to this interviewee
+5. Draft additional interview questions specific to interviewee
+6. Review review recording best practices
+
 
 ## Set Up
 
 {% capture text %} What you'll need:
-- Interview Template with questions for this interviewee (digital or printed)
-- Interview Consent Form (if conducting Zoom interview, send to interviewee ahead of time for signature)
+- [Interview Template](https://docs.google.com/document/d/1ZaHKXGA-PITaux6zf6AhMuq96Kk5c2f9USl0m_ytWvs/edit?usp=sharing) with questions for this interviewee (digital or printed)
+- [Interview Consent Form](https://docs.google.com/document/d/11txiuFVDQl7qDhnTFlNRQRyx5pBIZJrwPOd9SJH2TVM/edit?usp=sharing) (if conducting Zoom interview, send to interviewee ahead of time for signature)
 - Mic(s) and cable(s)
 - Laptop with Audacity installed, charger
-- A labeled folder to save recordings
+- A dedicated folder/USB drive to save raw audio files
 - Optional: Something to take notes with{% endcapture %}
 {% include alert.html text=text color=secondary %}
 
@@ -34,27 +48,29 @@ Use this as an opportunity to set them at ease (remind them that this is convers
 - Adjust mic pattern/gain as necessary (look out for clipping with high/loud voices; low/quiet voices may need a slightly higher gain; etc.)
 4. Record 20-30 seconds of silence (will help facilitate noise reduction, as needed)
 
+
 ## During Interview
 
 - If possible, write down timestamps for places where cuts need to be made (i.e. mistakes, redos, etc)
 - Periodically check the recording to ensure everything is still working correctly
 - Remember that you can pause the interview for breaks/readjustments as needed
 
+
 ## Post-Interview
 
-1. Name files using file naming system
-2. Save raw and/or MP3 files to a USB drive when possible (easier than uploading large Audacity files?)
-3. Editing: (save this for me?)
+1. Name files using file naming system > PCS_Interview_[Interviewee Name]
+2. Save Audacity and/or MP3 files to a dedicated folder or USB drive 
+3. Editing *(pending task assignment)*: 
 - Listen to entire audio before beginning edits, taking notes on what needs to be cut, fixed, etc
 - Perform noise reduction as needed
 - Export to MP3 - fill in the file metadata before saving
-4. Transcribing:
+4. Transcribing *(pending task assignment)*:
 - Upload audio file to transcription generator
 - Download as a text file
 - Review the transcript while listening to the audio
 - Correct errors or dropped words
 - Label transcript with tags as appropriate
 - Add names of speakers and edit timestamps as needed
-- Transfer completed transcript data to spreadsheet
+- Transfer completed transcript data to a dedicated spreadsheet
 - Make sure transcript file is labeled correctly 
 
