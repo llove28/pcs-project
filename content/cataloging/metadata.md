@@ -6,12 +6,12 @@ title: Metadata & File Naming
 
 To ensure this collection is well-organized, searchable, and appropriately preserved, we must collect descriptive information about each item – this is known as metadata.
 
-We will be using the following tools to record and organize this metadata:
+We will be using the following tools to record and organize this information:
 
-- Contributor Form: A Google form for accepting submissions and logging 
+- Contributor Form: A Google form for accepting submissions and collecting metadata.
 - Metadata Checklist: Print and use in the event that you are collecting physical items/interviews and do not have ready access to the Contributor Form. Make sure to use the Form or add this information to the PCS spreadsheet manually later.
 - PCS Spreadsheet: Answers from the Contributor Form will appear here. Our team can also manually add items to this list or make edits as necessary. This spreadsheet eventually be used to generate the collection on the website.
-- Collection Folders: Where you will find and sort all of the items
+- Collection Folders: Storage and organization system for collection items.
 - Curation Guidelines: 
 
 
@@ -28,6 +28,8 @@ The main metadata we will be collecting includes:
 - Contributor (Who does the item belong to? Leave blank for interviews)
 - Type (recording/image/video)
 
+The Contributor Form is designed to capture this information when someone submits an item to the collection. The form records this information in the PCS Spreadsheet. When necessary, we will also manually add/edit metadata in this spreadsheet. If you are collecting physical items or do not have ready access to the Contributor Form, you can also print out the Metadata Checklist to record this information from contributors and upload it to the PCS Spreadsheet later.
+
 " title2="Naming Files" text2="
 
 Once we have the basic metadata about an item, we can use it to rename our files. This is a critical step for keeping all of these files organized behind the scenes, making them easier to locate and add to the collection.
@@ -43,25 +45,25 @@ For multiple items with the same subject, add a number to the end of the file na
 **Important notes:**
 
 - When changing a file name, you can also edit the file’s Properties to include some of the metadata collected above.
-- Event names should be standardized across the collection. 
-- Interview files will require additional naming conventions if edits are required.
+- Event names should be standardized across the collection (See Event Key). 
+- Raw interview files will require additional naming conventions if edits are made (See Interview Workflow).
 
 " title3="Creating Additional Metadata" text3="
 
 Don’t worry about this just yet! We’re focusing on the basic stuff for the first part of this project. The following be will be added in later, manually:
 
 - Objectid 
-- Parentid (if nesting items with interviews)
+- Parentid
 - Title
-- Archive date (when it was submitted to us/added to the site?)
-- Subject (we may have multiple for interviews)
-- Lat and Long
+- Archive date 
+- Subject 
+- Latitude and Longitude
 - Identifier 
 - Format
 - Language
-- Rights (this needs to be determined and outlined in the consent form before we accept/publish anything)
+- Rights 
 - Rightsstatement
-- Display_template (transcript/image)
+- Display_template 
 - Object_location
 - Image_small
 - Image_thumb 
