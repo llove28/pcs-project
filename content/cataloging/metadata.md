@@ -28,7 +28,7 @@ The main metadata we will be collecting includes:
 - Contributor *(Who does the item belong to? Leave blank for interviews)*
 - Type *(recording/image/video)*
 
-The Contributor Form is designed to capture this information when someone submits an item to the collection. The form records this information in the PCS Spreadsheet. When necessary, we will also manually add/edit metadata in this spreadsheet. If you are collecting physical items or do not have ready access to the Contributor Form, you can also print out the Metadata Checklist to record this information from contributors and upload it to the PCS Spreadsheet later.
+The Contributor Form is designed to capture this information when someone submits an item to the collection. The form records this information in the PCS Spreadsheet. When necessary, we will also manually add/edit metadata in this spreadsheet. If you are collecting physical items or do not have ready access to the Contributor Form, you can also print out the Metadata Checklist to record this information and upload it to the PCS Spreadsheet later.
 
 " title2="Naming Files" text2="
 
@@ -36,9 +36,9 @@ Once we have the basic metadata about an item, we can use it to rename our files
 
 The specific file naming convention you use will depend on the item type, as follows:
 
-- Photographs/programs: PCS_[Season Year]-[Event]_[Subject]
-- Interviews: PCS_Interview_[Interviewee Name]
-- Performance audio/video: PCS_[Season Year]-[Event]_[Song]
+- **Photographs/programs:** PCS_[Season Year]-[Event]_[Subject]
+- **Interviews:** PCS_Interview_[Interviewee Name]
+- **Performance audio/video:** PCS_[Season Year]-[Event]_[Song]
 
 For multiple items with the same subject, add a number to the end of the file name to designate it as part of a series (i.e. PCS_2026-EarthTeachMe_Choir1)
 
