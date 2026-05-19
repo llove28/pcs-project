@@ -19,14 +19,14 @@ We will be using the following tools to record and organize this information:
 
 The main metadata we will be collecting includes:
 
-- Interviewee (Recordings only)
-- Interviewer (Recordings only)
-- Date (Of interview, or date the photo/program is from)
-- Creator (Who took the photo/created the program? / list PCS for interviews)
-- Description (What is the item? If a photo, who is in it? Which season/concert is the item from? How does this item help tell the story of PCS?)
-- Location (Where did this interview/the event in the photo/program take place?)
-- Contributor (Who does the item belong to? Leave blank for interviews)
-- Type (recording/image/video)
+- Interviewee *(Recordings only)*
+- Interviewer *(Recordings only)*
+- Date *(Of interview, or date the photo/program is from)*
+- Creator *(Who took the photo/created the program? / list PCS for interviews)*
+- Description *(What is the item? If a photo, who is in it? Which season/concert is the item from? How does this item help tell the story of PCS?)*
+- Location *(Where did this interview/the event in the photo/program take place?)*
+- Contributor *(Who does the item belong to? Leave blank for interviews)*
+- Type *(recording/image/video)*
 
 The Contributor Form is designed to capture this information when someone submits an item to the collection. The form records this information in the PCS Spreadsheet. When necessary, we will also manually add/edit metadata in this spreadsheet. If you are collecting physical items or do not have ready access to the Contributor Form, you can also print out the Metadata Checklist to record this information from contributors and upload it to the PCS Spreadsheet later.
 
@@ -46,7 +46,7 @@ For multiple items with the same subject, add a number to the end of the file na
 
 - When changing a file name, you can also edit the file’s Properties to include some of the metadata collected above.
 - Event names should be standardized across the collection (See Event Key). 
-- Raw interview files will require additional naming conventions if edits are made (See Interview Workflow).
+- Raw interview files will require additional naming conventions if edits are made (See [Interview Workflow](https://llove28.github.io/pcs-project/content/interviews/workflow.html)).
 
 " title3="Creating Additional Metadata" text3="
 
