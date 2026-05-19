@@ -12,15 +12,15 @@ Review the following steps before conducting interviews for the PCS Oral History
 1. Contact the interviewee to establish their interest in participating and inform them of the following:
 - The goal of the project and what type of information we are hoping to collect from them
 - What to expect during the interview, i.e.
-    - We will be recording using a laptop and microphone
-    - We will have some scripted questions (general and specific), but will allow the conversation to flow from there
-    - We anticipate recording one hour of material
+        - We will be recording using a laptop and microphone
+        - We will have some scripted questions (general and specific), but will allow the conversation to flow from there
+        - We anticipate recording one hour of material
 - What will happen to their recorded interview, i.e. 
-    - May be minimally edited
-    - Will be run through a transcription software 
-    - Will be published to the collection website for the general public to hear
-    - May be potentially clipped for socials
-    - They will have an option to hear it before it’s published
+        - May be minimally edited
+        - Will be run through a transcription software 
+        - Will be published to the collection website for the general public to hear
+        - May be potentially clipped for socials
+        - They will have an option to hear it before it’s published
 3. Arrange time and place 
 4. Review general questions - remove/edit that do not apply to this interviewee
 5. Draft additional interview questions specific to interviewee
