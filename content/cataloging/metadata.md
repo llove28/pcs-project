@@ -9,8 +9,8 @@ To ensure this collection is well-organized, searchable, and appropriately prese
 We will be using the following tools to record and organize this information:
 
 - **Contributor Form:** A Google form for accepting submissions and collecting metadata.
-- **[Metadata Checklist](https://docs.google.com/document/d/1OXNd2J0EApIa9E5ScstGEZs18t2P0WNPsi06LpOyHN8/edit?usp=sharing):** Print and use in the event that you are collecting physical items/interviews and do not have ready access to the Contributor Form. Make sure to use the Form or add this information to the PCS spreadsheet manually later.
-- **PCS Spreadsheet:** Answers from the Contributor Form will appear here. Our team can also manually add items to this list or make edits as necessary. This spreadsheet eventually be used to generate the collection on the website.
+- **[Metadata Checklist](https://docs.google.com/document/d/1OXNd2J0EApIa9E5ScstGEZs18t2P0WNPsi06LpOyHN8/edit?usp=sharing):** Print and use in the event that you are collecting physical items/interviews and do not have ready access to the Contributor Form. 
+- **Contributor Spreadsheet:** Answers from the Contributor Form will appear here. Our team can also manually add items to this list or make edits as necessary. This spreadsheet eventually be used to generate the collection on the website.
 - **Collection Folders:** Storage and organization system for collection items.
 - **[Curation Guidelines](https://llove28.github.io/pcs-project/content/cataloging/curation-guidelines.html):** A guide for selecting which items will be added to the collection. 
 
@@ -28,7 +28,7 @@ The main metadata we will be collecting includes:
 - Contributor *(Who does the item belong to? Leave blank for interviews)*
 - Type *(recording/image/video)*
 
-The Contributor Form is designed to capture this information when someone submits an item to the collection. The form records this information in the PCS Spreadsheet. When necessary, we will also manually add/edit metadata in this spreadsheet. If you are collecting physical items or do not have ready access to the Contributor Form, you can also print out the Metadata Checklist to record this information and upload it to the PCS Spreadsheet later.
+The Contributor Form is designed to capture this information when someone submits an item to the collection. The form records this information in the Contributor Spreadsheet. When necessary, we will also manually add/edit metadata in this spreadsheet. If you are collecting physical items or do not have ready access to the Contributor Form, you can also print out the Metadata Checklist to record this information and upload via the Form later.
 
 " title2="Naming Files" text2="
 
