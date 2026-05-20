@@ -41,8 +41,7 @@ PCS members and supporters will be invited to contribute items to the collection
             - Otherwise, cataloger should request this info from contributor and use Contributor Form to record metadata
     - Rename files using File Naming System
     - Place the files in the corresponding Collection folder  
-
-<br></br>
+<br>
 4. Physical items
     - When accepting physical items:
         - Label a folder with the contributor’s name to keep the items secure and avoid mix-ups
