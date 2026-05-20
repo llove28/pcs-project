@@ -20,12 +20,12 @@ Review the following steps before collecting/cataloging items for the PCS Oral H
 
 PCS has a number of photographs. We will need to label and organize these files, then use the Curation Guidelines to determine what will be added to the official collection.
 
-1. Sort items by season and event into appropriate folders
+1. Sort items by season and event into appropriate folders. 
     - When creating new folders, use the following naming format:
         - PCS_[Season Year] > PCS_[Season Year]_[Event]
-2. Identify the subject of the photos, and use this information to rename the files using the File Naming System
-3. Identify items for official collection using the Curation Guidelines
-4. Use the Contributor Form to record metadata for official collection items
+2. Identify the subject of the photos, and use this information to rename the files using the File Naming System.  
+3. Identify items for official collection using the Curation Guidelines. 
+4. Use the Contributor Form to record metadata for official collection items. 
 
 # New items
 
