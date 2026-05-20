@@ -31,12 +31,11 @@ Review the following steps before conducting interviews for the PCS Oral History
 
 {% capture text %} What you'll need:
 - [Interview Template](https://docs.google.com/document/d/1ZaHKXGA-PITaux6zf6AhMuq96Kk5c2f9USl0m_ytWvs/edit?usp=sharing) with questions for this interviewee (digital or printed)
-- [Interview Consent Form](https://docs.google.com/document/d/11txiuFVDQl7qDhnTFlNRQRyx5pBIZJrwPOd9SJH2TVM/edit?usp=sharing) (if conducting Zoom interview, send to interviewee ahead of time for signature)
+- [Interview Agreement](https://docs.google.com/document/d/11txiuFVDQl7qDhnTFlNRQRyx5pBIZJrwPOd9SJH2TVM/edit?usp=sharing) (if conducting Zoom interview, send to interviewee ahead of time for signature)
 - Mic(s) and cable(s)
 - Laptop with Audacity installed, charger
 - A dedicated folder/USB drive to save raw audio files
-- Optional: Something to take notes with{% endcapture %}
-{% include alert.html text=text color=secondary %}
+- Optional: Something to take notes with{% endcapture %}{% include alert.html text=text color=secondary %}
 
 1. Choose a quiet, comfortable place to record (limit background noise and echoes as much as possible)
 2. Instruct your interviewee to sit comfortably, then position the mic at an appropriate distance (preferably about six inches from their mouth).
@@ -49,7 +48,7 @@ Use this as an opportunity to set them at ease (remind them that this is convers
 4. Record 20-30 seconds of silence (will help facilitate noise reduction, as needed)
 
 
-## During Interview
+## During the Interview
 
 - If possible, write down timestamps for places where cuts need to be made (i.e. mistakes, redos, etc)
 - Periodically check the recording to ensure everything is still working correctly
