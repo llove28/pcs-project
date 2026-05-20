@@ -13,7 +13,7 @@ Review the following steps before collecting/cataloging items for the PCS Oral H
 - **Contributor Form:** A Google form for accepting items and logging related metadata. 
 - **Contributor Spreadsheet:** Answers from the Contributor Form will appear here. Our team can also manually add items to this list or make edits as necessary. This spreadsheet eventually be used to generate the collection on the website.
 - **Collection Folders:** Where you will find and sort all of the items
-- **[Curation Guidelines](https://llove28.github.io/pcs-project/content/cataloging/curation-guidelines.html):** A guide for selecting which items will be added to the collection.{% endcapture %} {% include card.html text=text header="Tools you will need" %}{% endraw %}
+- **[Curation Guidelines](https://llove28.github.io/pcs-project/content/cataloging/curation-guidelines.html):** A guide for selecting which items will be added to the collection.{% endcapture %} {% include card.html text=text header="Tools you will need" %}
 
 # Items we already have
 
