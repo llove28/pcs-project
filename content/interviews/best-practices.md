@@ -4,7 +4,8 @@ nav_order: 3
 title: Best Practices
 ---
 
-# Before the interview
+
+## Before the interview
 
 Get to know your equipment and make sure everything is working as expected.
 
@@ -16,7 +17,7 @@ Get to know your equipment and make sure everything is working as expected.
     - Minimize background noise as much as possible. 
 - Record at least 30 seconds of silence at the beginning - this can be used for noise reduction in the editing phase.
 
-# Preparing the interviewee
+## Preparing the interviewee
 
 - Find out if they have any prior experience with recording, so you know how much guidance they might need. 
 - Advise them on proper mic etiquette:
@@ -28,7 +29,7 @@ Get to know your equipment and make sure everything is working as expected.
 - Getting in front of a mic can be intimidating - remind them that this is a casual conversation. 
     - If they stutter or misspeak, let them know they can pause for a few seconds and start over. Mistakes, redos, awkward pauses, etc. can be edited out. 
 
-# During the interview
+## During the interview
 
 - If you’re using only one microphone, you must be mindful of crosstalk. Try to avoid interrupting when interviewees are speaking, and ask them to pause and repeat if there is an interruption that may affect the audio quality.
 - Periodically check on the recording to ensure everything is operating as expected.
