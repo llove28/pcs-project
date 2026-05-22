@@ -8,12 +8,13 @@ Review the following steps before conducting interviews for the PCS Oral History
 
 {% capture text %} **What you'll need:**
 
-Interview Template with questions for this interviewee (digital or printed)
-Interview Agreement (if conducting Zoom interview, send to interviewee ahead of time for signature)
-Mic(s) and cable(s)
-Laptop with Audacity installed, charger
-A dedicated folder/USB drive to save raw audio files
-Optional: Something to take notes with
+- [Interview Template](https://docs.google.com/document/d/1ZaHKXGA-PITaux6zf6AhMuq96Kk5c2f9USl0m_ytWvs/edit?tab=t.0#heading=h.eny2u1w4rz6k) with questions for this interviewee (digital or printed)
+- [Interview Agreement](https://docs.google.com/document/d/11txiuFVDQl7qDhnTFlNRQRyx5pBIZJrwPOd9SJH2TVM/edit?tab=t.0#heading=h.hg19oj81usdj) (if conducting a Zoom interview, send to interviewee ahead of time for signature)
+- Mic(s) and cable(s)
+- Laptop with Audacity installed, charger
+- A dedicated folder/USB drive to save raw audio files
+- Optional: Something to take notes with
+<br>
 *Note:* If you are conducting interviews using the U of I Library Studio, recording equipment will be supplied.{% endcapture %}{% include alert.html text=text color=secondary %}
 
 {% include accordion.html title1="Planning the Interview" text1="
