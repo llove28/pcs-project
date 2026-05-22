@@ -6,8 +6,7 @@ title: Best Practices
 
 Review the following best practices f you're conducting interviews for the first time or just need a refresher.
 
-## Before the interview
-
+{% include accordion.html title1="Before the interview" text1="
 Get to know your equipment and make sure everything is working as expected.
 
 - Understand how the mic picks up sounds - some mics allow you to change the pattern, increasing or decreasing the directions it picks up sound from.
@@ -18,8 +17,7 @@ Get to know your equipment and make sure everything is working as expected.
     - Minimize background noise as much as possible. 
 - Record at least 30 seconds of silence at the beginning - this can be used for noise reduction in the editing phase.
 
-## Preparing the interviewee
-
+" title2="Preparing the interviewee" text2="
 - Find out if they have any prior experience with recording, so you know how much guidance they might need. 
 - Advise them on proper mic etiquette:
     - Sit comfortably and (if possible) bring the mic to you.
@@ -30,8 +28,7 @@ Get to know your equipment and make sure everything is working as expected.
 - Getting in front of a mic can be intimidating - remind them that this is a casual conversation. 
     - If they stutter or misspeak, let them know they can pause for a few seconds and start over. Mistakes, redos, awkward pauses, etc. can be edited out. 
 
-## During the interview
-
+" title3="During the interview" text3="
 - If you’re using only one microphone, you must be mindful of crosstalk. Try to avoid interrupting when interviewees are speaking, and ask them to pause and repeat if there is an interruption that may affect the audio quality.
 - Periodically check on the recording to ensure everything is operating as expected.
 - Don’t feel obligated to strictly adhere to the scripted questions – allow the conversation to flow and ask follow-ups as needed. 
