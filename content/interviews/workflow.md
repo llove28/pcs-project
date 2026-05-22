@@ -66,4 +66,5 @@ Use this as an opportunity to set them at ease (remind them that this is convers
 - Add names of speakers and edit timestamps as needed
 - Transfer completed transcript data to a dedicated spreadsheet
 - Make sure transcript file is labeled correctly 
+
 " %}
