@@ -4,6 +4,7 @@ nav_order: 3
 title: Best Practices
 ---
 
+Review the following best practices f you're conducting interviews for the first time or just need a refresher.
 
 ## Before the interview
 
