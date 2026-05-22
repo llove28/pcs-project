@@ -7,6 +7,7 @@ title: Cataloging Workflow
 Review the following steps before collecting/cataloging items for the PCS Oral History Project.
 
 {% capture text %}
+**What you'll need:**
 - **Contributor Agreement:** Contributors must sign this document giving us permission to publish their contributed items.
 - **[Metadata & File Naming System](https://llove28.github.io/pcs-project/content/cataloging/metadata.html):** A guide for naming and collecting descriptive information about digital item files.
 - **[Metadata Checklist](https://docs.google.com/document/d/1OXNd2J0EApIa9E5ScstGEZs18t2P0WNPsi06LpOyHN8/edit?tab=t.0#heading=h.fuwpqljscv78):** Print and use in the event that you are collecting physical items/interviews and do not have ready access to the Contributor Form. Make sure to use the Form or add this information to the PCS spreadsheet manually later.
