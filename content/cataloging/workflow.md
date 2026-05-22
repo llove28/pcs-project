@@ -13,10 +13,10 @@ Review the following steps before collecting/cataloging items for the PCS Oral H
 - **Contributor Form:** A Google form for accepting items and logging related metadata. 
 - **Contributor Spreadsheet:** Answers from the Contributor Form will appear here. Our team can also manually add items to this list or make edits as necessary. This spreadsheet eventually be used to generate the collection on the website.
 - **Collection Folders:** Where you will find and sort all of the items
-- **[Curation Guidelines](https://llove28.github.io/pcs-project/content/cataloging/curation-guidelines.html):** A guide for selecting which items will be added to the collection.{% endcapture %} {% include card.html text=text header="Tools you will need" %}
+- **[Curation Guidelines](https://llove28.github.io/pcs-project/content/cataloging/curation-guidelines.html):** A guide for selecting which items will be added to the collection.
+{% endcapture %}{% include alert.html text=text color=secondary %}
 
-# Items we already have
-
+{% include accordion.html title1="Items we already have" text1="
 PCS has a number of photographs. We will need to label and organize these files, then use the Curation Guidelines to determine what will be added to the official collection.
 
 1. Sort items by season and event into appropriate folders. 
@@ -26,8 +26,7 @@ PCS has a number of photographs. We will need to label and organize these files,
 3. Identify items for official collection using the Curation Guidelines. 
 4. Use the Contributor Form to record metadata for official collection items. 
 
-# New items
-
+" title2="New items" text2="
 PCS members and supporters will be invited to contribute items to the collection. Follow these steps to guide contributors through this process and ensure metadata is properly collected.
 
 1. When possible, conduct a pre-interview (using the Curation Guidelines) to verify that the items they want to contribute fit our needs. This will help us keep a handle on storage/workload.
@@ -53,3 +52,4 @@ PCS members and supporters will be invited to contribute items to the collection
         - Use the Contributor Form to record the information from the Metadata Checklist  
         - Move the file to the corresponding Collection folder
 
+" %}
