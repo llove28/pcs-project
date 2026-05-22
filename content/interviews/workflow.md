@@ -6,7 +6,7 @@ title: Interview Workflow
 
 Review the following steps before conducting interviews for the PCS Oral History Project.
 
-{% capture text %} What you'll need:
+{% capture text %} **What you'll need:**
 
 Interview Template with questions for this interviewee (digital or printed)
 Interview Agreement (if conducting Zoom interview, send to interviewee ahead of time for signature)
