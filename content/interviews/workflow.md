@@ -14,6 +14,7 @@ Review the following steps before conducting interviews for the PCS Oral History
 - Laptop with Audacity installed, charger
 - A dedicated folder/USB drive to save raw audio files
 - Optional: Something to take notes with
+- Optional: [Interviewing Best Practices](https://llove28.github.io/pcs-project/content/interviews/best-practices.html)
 <br>
 *Note:* If you are conducting interviews using the U of I Library Studio, recording equipment will be supplied.{% endcapture %}{% include alert.html text=text color=secondary %}
 
@@ -33,7 +34,7 @@ Review the following steps before conducting interviews for the PCS Oral History
 3. Arrange time and place 
 4. Review general questions - remove/edit that do not apply to this interviewee
 5. Draft additional interview questions specific to interviewee
-6. Review review recording best practices
+6. Review the Interviewing Best Practices, as needed
 
 " title2="Recording Setup" text2="
 1. Choose a quiet, comfortable place to record (limit background noise and echoes as much as possible)
