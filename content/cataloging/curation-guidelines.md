@@ -15,7 +15,7 @@ While we would love to include everything our community has to offer, time, labo
 
 Use the following guidelines to determine if an item is right for this collection. If you’re still unsure, reach out to Leesa for assistance.
 
-# Photographs
+{% include accordion.html title1="Photographs" text1="
 - Concert photos
 - Group photos
 - PCS-sponsored events/activities (i.e., sing-alongs, potlucks, caroling, travel)
@@ -24,11 +24,13 @@ Use the following guidelines to determine if an item is right for this collectio
 - Individual portraits, unless it adds to a part of the history (i.e. conductors)
 - Duplicates/photos that are too similar
 
-# Recordings
+" title2="Recordings" text2="
 - The choir must have copyright permission to share recordings of the work, unless it is a public domain work
 - Make sure quality is good (no background noise/chatter)
 - Recordings don’t have to include the whole song?
 
+" title3="Other Items" text3="
+TBD
 
-# Other Items 
+" %}
 
