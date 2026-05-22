@@ -35,15 +35,6 @@ Optional: Something to take notes with
 6. Review review recording best practices
 
 " title2="Recording Setup" text2="
-
-{% capture text %} What you'll need:
-- [Interview Template](https://docs.google.com/document/d/1ZaHKXGA-PITaux6zf6AhMuq96Kk5c2f9USl0m_ytWvs/edit?usp=sharing) with questions for this interviewee (digital or printed)
-- [Interview Agreement](https://docs.google.com/document/d/11txiuFVDQl7qDhnTFlNRQRyx5pBIZJrwPOd9SJH2TVM/edit?usp=sharing) (if conducting Zoom interview, send to interviewee ahead of time for signature)
-- Mic(s) and cable(s)
-- Laptop with Audacity installed, charger
-- A dedicated folder/USB drive to save raw audio files
-- Optional: Something to take notes with{% endcapture %}{% include alert.html text=text color=secondary %}
-
 1. Choose a quiet, comfortable place to record (limit background noise and echoes as much as possible)
 2. Instruct your interviewee to sit comfortably, then position the mic at an appropriate distance (preferably about six inches from their mouth).
 3. Perform a mic test
